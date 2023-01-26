@@ -1,0 +1,11 @@
+C:\Users\tulee\OneDrive\Рабочий стол\учеба\мдк 01.02\laba 1\laba 1\bin\Debug\laba 1.exe.config
+C:\Users\tulee\OneDrive\Рабочий стол\учеба\мдк 01.02\laba 1\laba 1\bin\Debug\laba 1.exe
+C:\Users\tulee\OneDrive\Рабочий стол\учеба\мдк 01.02\laba 1\laba 1\bin\Debug\laba 1.pdb
+C:\Users\tulee\OneDrive\Рабочий стол\учеба\мдк 01.02\laba 1\laba 1\obj\Debug\laba 1.csproj.AssemblyReference.cache
+C:\Users\tulee\OneDrive\Рабочий стол\учеба\мдк 01.02\laba 1\laba 1\obj\Debug\laba 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\tulee\OneDrive\Рабочий стол\учеба\мдк 01.02\laba 1\laba 1\obj\Debug\laba_1.Form1.resources
+C:\Users\tulee\OneDrive\Рабочий стол\учеба\мдк 01.02\laba 1\laba 1\obj\Debug\laba_1.Properties.Resources.resources
+C:\Users\tulee\OneDrive\Рабочий стол\учеба\мдк 01.02\laba 1\laba 1\obj\Debug\laba 1.csproj.GenerateResource.cache
+C:\Users\tulee\OneDrive\Рабочий стол\учеба\мдк 01.02\laba 1\laba 1\obj\Debug\laba 1.csproj.CoreCompileInputs.cache
+C:\Users\tulee\OneDrive\Рабочий стол\учеба\мдк 01.02\laba 1\laba 1\obj\Debug\laba 1.exe
+C:\Users\tulee\OneDrive\Рабочий стол\учеба\мдк 01.02\laba 1\laba 1\obj\Debug\laba 1.pdb
